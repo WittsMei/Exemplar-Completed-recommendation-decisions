@@ -6,5 +6,6 @@ In the table below, for each Google Ads recommendation, document whether you wil
 
 <img width="798" alt="image" src="https://github.com/user-attachments/assets/99084b23-12c0-4ea7-9389-0af40fa7d390">
 
-<img width="779" alt="image" src="https://github.com/user-attachments/assets/3ee17a36-8114-4a76-b9e6-7ec49c001f1d">
+<img width="777" alt="image" src="https://github.com/user-attachments/assets/bfdbe889-d9bc-4eb8-bce0-828413cf1836">
+
 
